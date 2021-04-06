@@ -1,0 +1,16 @@
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\Exercicio_Frutas.exe
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\Exercicio_Frutas.deps.json
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\Exercicio_Frutas.runtimeconfig.json
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\Exercicio_Frutas.runtimeconfig.dev.json
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\Exercicio_Frutas.dll
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\ref\Exercicio_Frutas.dll
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\bin\Debug\net5.0\Exercicio_Frutas.pdb
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.csprojAssemblyReference.cache
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.AssemblyInfoInputs.cache
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.AssemblyInfo.cs
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.csproj.CoreCompileInputs.cache
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.dll
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\ref\Exercicio_Frutas.dll
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.pdb
+C:\Users\qmich\Desktop\Logica_Programacao\Exercicios_CSharp\Exercicio_Frutas\Exercicio_Frutas\obj\Debug\net5.0\Exercicio_Frutas.genruntimeconfig.cache
