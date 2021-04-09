@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\qmich\\Source\\Repos\\programacao_orientada_objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj": {}
+    "C:\\Users\\qmich\\Desktop\\Logica_Programacao_1\\Orientação à objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\qmich\\Source\\Repos\\programacao_orientada_objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj": {
+    "C:\\Users\\qmich\\Desktop\\Logica_Programacao_1\\Orientação à objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\qmich\\Source\\Repos\\programacao_orientada_objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj",
+        "projectUniqueName": "C:\\Users\\qmich\\Desktop\\Logica_Programacao_1\\Orientação à objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj",
         "projectName": "Exercicio_Frutas",
-        "projectPath": "C:\\Users\\qmich\\Source\\Repos\\programacao_orientada_objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj",
+        "projectPath": "C:\\Users\\qmich\\Desktop\\Logica_Programacao_1\\Orientação à objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\Exercicio_Frutas.csproj",
         "packagesPath": "C:\\Users\\qmich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\qmich\\Source\\Repos\\programacao_orientada_objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\obj\\",
+        "outputPath": "C:\\Users\\qmich\\Desktop\\Logica_Programacao_1\\Orientação à objeto\\Exercicios_CSharp\\Exercicio_Frutas\\Exercicio_Frutas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
