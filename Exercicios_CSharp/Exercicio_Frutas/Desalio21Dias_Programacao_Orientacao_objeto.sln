@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_Frutas", "Exercicio_Frutas\Exercicio_Frutas.csproj", "{D3A705A7-D336-44A1-8242-F0EA3E398F5A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio21DiasOO", "..\..\..\Orientação à objeto1\Exercício1 - Classes e Construtores\Desafio21DiasOO\Desafio21DiasOO\Desafio21DiasOO.csproj", "{5831B11C-A50C-4264-AB26-44643FAFFDC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_Classes_Construtores", "..\..\..\Orientação à objeto1\Exercício1 - Classes e Construtores\Desafio21DiasOO\Desafio21DiasOO\Exercicio_Classes_Construtores.csproj", "{5831B11C-A50C-4264-AB26-44643FAFFDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1_Classes_Construtores", "Exercicios\Criando_Classes_Construtores\Exercicio\Exercicio1_Classes_Construtores.csproj", "{955DA362-9FC3-4CEA-AFCB-F520E40DAEF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5831B11C-A50C-4264-AB26-44643FAFFDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5831B11C-A50C-4264-AB26-44643FAFFDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5831B11C-A50C-4264-AB26-44643FAFFDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955DA362-9FC3-4CEA-AFCB-F520E40DAEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955DA362-9FC3-4CEA-AFCB-F520E40DAEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955DA362-9FC3-4CEA-AFCB-F520E40DAEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955DA362-9FC3-4CEA-AFCB-F520E40DAEF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
