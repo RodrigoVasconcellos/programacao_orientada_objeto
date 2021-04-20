@@ -37,7 +37,7 @@ namespace Exercicio
             aparelho.marca = "AOC";
             aparelho.tamanho = "50 Polegadas";
             aparelho.preço = 2800.00;
-            aparelho.caracteristica = "Ultra HD"
+            aparelho.caracteristica = "Ultra HD";
 
 
             Animal animal = new Animal();
